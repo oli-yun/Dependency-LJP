@@ -3,7 +3,6 @@
 - data_preprocess.py: preprocess data for Dependent-T5.
 - parameters.py: define parameters of Dependent-T5.
 - train_tools.py: traning and evaluation code of Dependent-T5.
-- nli.py: run it to train and test mT5-Text Matching for LJP.
 - main.py: run it to train and test Dependent T5 for LJP. 
 
 ## Data
@@ -29,5 +28,7 @@
   }
   ```
 
-  
+You can get data at the following address:
+
+https://drive.google.com/drive/folders/1IdGh30v1lqXUf3XSAtOEAmX_G_U2i8gw?usp=sharing
 
